@@ -36,3 +36,5 @@ See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorize
 
 -----
 ## CODE and INSTRUCTIONS
+
+- Upload [this code] to your Arduino Board
