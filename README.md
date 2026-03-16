@@ -32,7 +32,7 @@ Continuous power via 5V 1A power supply (connected to mains power). Alternativel
 -----
 ## WIRING
 
-See [wiring diagram here]
+See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorized-Clock/blob/main/Unipolar_buttons_bb.jpg)
 
 -----
 ## CODE and INSTRUCTIONS
