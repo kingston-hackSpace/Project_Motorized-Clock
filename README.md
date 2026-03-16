@@ -6,11 +6,11 @@
 -----
 ## PROJECT DESCRIPTION
 
-Make a 12hrs and 60 mins clock using a Unipolar Stepper Motor and Gears. 
+Make a 12-hrs and 60-mins clock using a Unipolar Stepper Motor and Gears. 
 
-Time setting via mannual button pressing (+) and (-).
+Time setting via manual button pressing (+) and (-).
 
-Continuous power via 5V 1A power supply (wiring to mains). Alternatively, you can use a 5V 1A Battery Bank (or similar), however, motor current draw may consume the battery after 20hrs operational. A power supply connected to the mains is recommended for longer periods operational. 
+Continuous power via 5V 1A power supply (connected to mains power). Alternatively, a 5V 1A battery bank can be used, with expected runtime is approximately 18–20 hours. For longer continuous operation, a mains power supply is recommended.
 
 -----
 ## HARDWARE
@@ -21,11 +21,13 @@ Continuous power via 5V 1A power supply (wiring to mains). Alternatively, you ca
 
 - ULN2003 Motor Driver
 
-- 5V 500mA Power Supply
+- 5V 1A Power Supply
 
 - push buttons (x2)
 
 - 100µF capacitor (x1)
+
+- Gears (pending details)
 
 -----
 ## WIRING
