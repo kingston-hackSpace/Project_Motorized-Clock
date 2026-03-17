@@ -46,4 +46,4 @@ See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorize
 
 [3D Printed Holo Clock With Arduino](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
 
-[Two different time zones clock] (https://blog.arduino.cc/2020/08/05/this-stepper-driven-mechanical-clock-can-be-set-to-two-different-time-zones/)
+[Two different time zones clock](https://blog.arduino.cc/2020/08/05/this-stepper-driven-mechanical-clock-can-be-set-to-two-different-time-zones/)
