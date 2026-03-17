@@ -37,8 +37,10 @@ See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorize
 -----
 ## CODE and INSTRUCTIONS
 
-- Upload [this code] to your Arduino Board
+- Upload [this code](https://github.com/kingston-hackSpace/Project_Motorized-Clock/blob/main/60min-stepperClock.ino) to your Arduino Board 
 
+- To set the time, press the buttons. Each pressing corresponds to one minute. To confirm the current time, press both buttons simultaneously. You can see it at the serial monitor.
+  
 -----
 ## EXAMPLES
 
