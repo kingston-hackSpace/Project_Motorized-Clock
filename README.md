@@ -6,9 +6,9 @@
 -----
 ## PROJECT DESCRIPTION
 
-Make a 12-hrs and 60-mins clock using a Unipolar Stepper Motor and Gears. 
+Make a 60-mins clock using a Unipolar Stepper Motor. Add gears to set hours.  
 
-Time setting via manual button pressing (+) and (-).
+Time setting via manual button pressing (+) and (-). Confirm time by pressing both buttons simultaneously. 
 
 Continuous power via 5V 1A power supply (connected to mains power). Alternatively, a 5V 1A battery bank can be used, with expected runtime is approximately 18–20 hours. For longer continuous operation, a mains power supply is recommended.
 
@@ -38,3 +38,10 @@ See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorize
 ## CODE and INSTRUCTIONS
 
 - Upload [this code] to your Arduino Board
+
+-----
+## EXAMPLES
+
+[3D Printed Holo Clock With Arduino](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
+
+[Two different time zones clock] (https://blog.arduino.cc/2020/08/05/this-stepper-driven-mechanical-clock-can-be-set-to-two-different-time-zones/)
