@@ -40,6 +40,17 @@ See [wiring diagram here](https://github.com/kingston-hackSpace/Project_Motorize
 - Upload [this code](https://github.com/kingston-hackSpace/Project_Motorized-Clock/blob/main/60min-stepperClock.ino) to your Arduino Board 
 
 - To set the time, press the buttons. Each pressing corresponds to one minute. To confirm the current time, press both buttons simultaneously. You can see it at the serial monitor.
+
+-----
+## ALTERNATIVE: 10 Min Clock
+
+Add: LEDs(x2), resistors 220ohms (x2)
+
+- Upload [this code] to your Arduino Board.
+
+- This new code adds LEDs to monitor when the current time has been sucessfully set up, as well as monitoring LED blinking as second intervals.
+
+- CODE Description: A full stepper motor rotation is now euivalent to 6 sections of 10min. In other words, trigger the motor every 10 mins to complete 1 hr (6 sections.)
   
 -----
 ## EXAMPLES
