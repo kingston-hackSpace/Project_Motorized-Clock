@@ -58,3 +58,5 @@ Add: LEDs(x2), resistors 220ohms (x2)
 [3D Printed Holo Clock With Arduino](https://www.instructables.com/3D-Printed-Holo-Clock-With-Arduino/)
 
 [Two different time zones clock](https://blog.arduino.cc/2020/08/05/this-stepper-driven-mechanical-clock-can-be-set-to-two-different-time-zones/)
+
+[Building a Stepper Motor Clock with a Custom PCB](https://www.youtube.com/watch?v=tWS7qVi3ZdI)
